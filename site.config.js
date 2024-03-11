@@ -11,14 +11,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Nothing`,
+      href: "https://github.com/JesseJeson",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "histcat-blog",
+    description: "欢迎来到histcat的博客！",
   },
 
   // CONFIG configration (required)
@@ -60,7 +60,7 @@ const CONFIG = {
     },
   },
   cusdis: {
-    enable: false,
+    enable: true,
     config: {
       host: "https://cusdis.com",
       appid: "2f38fbcb-45a3-4516-9f6e-9b88afac00c9", // Embed Code -> data-app-id value
